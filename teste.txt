@@ -1,0 +1,23 @@
+total 513
+-rw------- 1 ahdmaximo espinf    227 mar 28 19:14 dados.txt
+-rw------- 1 ahdmaximo espinf     78 mar 28 21:28 erros.txt
+-rw------- 1 ahdmaximo espinf      0 mar 22 11:42 funcoes.py
+-rw------- 1 ahdmaximo espinf    481 mar 15 10:15 gregorio_matos
+-rw------- 1 ahdmaximo espinf 793574 mar 22 09:03 SacramentocrimeJanuary2006.csv
+-rw------- 1 ahdmaximo espinf 113183 mar 22 09:03 Sacramentorealestatetransactions(1).csv
+-rw------- 1 ahdmaximo espinf 113183 mar 22 09:03 Sacramentorealestatetransactions.csv
+-rw------- 1 ahdmaximo espinf    514 mar 28 21:43 saida.txt
+-rw------- 1 ahdmaximo espinf 123637 mar 22 09:44 SalesJan2009.csv
+drwx------ 2 ahdmaximo espinf      3 mar 28 21:29 teste
+total 17
+drwx------ 2 ahdmaximo espinf   2 mar 15 09:27 Área de trabalho
+drwx------ 2 ahdmaximo espinf   2 mar 15 09:27 Documentos
+drwx------ 3 ahdmaximo espinf  14 mar 28 21:30 Downloads
+drwx------ 2 ahdmaximo espinf   2 mar 15 09:27 Imagens
+drwx------ 2 ahdmaximo espinf   2 mar 15 09:27 Modelos
+drwx------ 2 ahdmaximo espinf   2 mar 15 09:27 Músicas
+drwx------ 2 ahdmaximo espinf   2 mar 15 09:27 Público
+-rw------- 1 ahdmaximo espinf   0 mar 28 21:42 saida.txt
+-rw------- 1 ahdmaximo espinf 697 mar 28 22:10 teste.txt
+drwx------ 2 ahdmaximo espinf   2 mar 15 09:27 Vídeos
+outro teste
